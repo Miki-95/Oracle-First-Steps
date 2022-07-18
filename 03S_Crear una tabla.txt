@@ -1,0 +1,7 @@
+CREATE TABLE usuario.tabla(
+Registro Number(10) constraint Ejemplo Primary Key, 
+Pais Varchar (50), 
+Capital Varchar (50), 
+Poblacion Number (20), 
+PIB (10,2)
+);

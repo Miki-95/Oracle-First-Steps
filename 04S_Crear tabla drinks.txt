@@ -1,0 +1,8 @@
+CREATE TABLE Curso_DataScience.drinkB(
+Registro Number (10) constraint Ejemplo Primary Key, 
+Pais Varchar (50),
+Cerveza Number (20),
+Licor Number (20),
+Vino Number (20),
+Puro Number (20),
+Continente Varchar (25));

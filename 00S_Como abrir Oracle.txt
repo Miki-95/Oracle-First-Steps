@@ -1,0 +1,8 @@
+PARA CONECTARSE A ORACLE
+
+1. Abrir el Start Database de Oracle
+
+2. Abrir la linea de Command Line de SQL
+
+3. Para entrar ingresar:
+conn SYS/*tu contraseña* as SYSDBA;
